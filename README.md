@@ -1,4 +1,4 @@
-# hello-world
+# A little bit about me and my programing story!
 
 Hi, my name is Mateusz, but u can talk to me Matthew(that's an English equivalent of my Polish name).
 I like to play games, my favorite is League of Legends. I got interested in writing code in about 2016. 
