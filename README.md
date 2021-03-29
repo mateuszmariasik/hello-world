@@ -1,6 +1,6 @@
 # hello-world
 
-Hi, my name is Mateusz, but u can talk to me Matthew(that's and English equivalent of my Polish name).
+Hi, my name is Mateusz, but u can talk to me Matthew(that's an English equivalent of my Polish name).
 I like to play games, my favorite is League of Legends. I got interested in writing code in about 2016. 
 I joined to an additional lessons where teacher was showing me about a lot of things about IT.
 Like special robots that I can program, making a 3d prints, greenscreen etc. But the programing was this
