@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hi, my name is Mateusz, but u can talk to me Matthew(that's and English equivalent of my Polish name).
 I like to play games, my favorite is League of Legends. I got interested in writing code in about 2016. 
 I joined to an additional lessons where teacher was showing me about a lot of things about IT.
